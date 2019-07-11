@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.199fccc4.chunk.css",
+    "main.js": "/static/js/main.603f7a83.chunk.js",
+    "main.js.map": "/static/js/main.603f7a83.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.5020d6f3.chunk.css": "/static/css/2.5020d6f3.chunk.css",
+    "static/js/2.01b8338b.chunk.js": "/static/js/2.01b8338b.chunk.js",
+    "static/js/2.01b8338b.chunk.js.map": "/static/js/2.01b8338b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4d2195815faa96bb03b5e96ed9820b28.js": "/precache-manifest.4d2195815faa96bb03b5e96ed9820b28.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5020d6f3.chunk.css.map": "/static/css/2.5020d6f3.chunk.css.map",
+    "static/css/main.199fccc4.chunk.css.map": "/static/css/main.199fccc4.chunk.css.map",
+    "static/media/CSS.3.svg": "/static/media/CSS.3.15678ffe.svg",
+    "static/media/HTML5-logo.svg": "/static/media/HTML5-logo.1edd5890.svg",
+    "static/media/Javan_logo.svg": "/static/media/Javan_logo.6644d694.svg",
+    "static/media/Javascript_badge.svg": "/static/media/Javascript_badge.237a7f44.svg",
+    "static/media/Spring_Framework_Logo_2018.svg": "/static/media/Spring_Framework_Logo_2018.5e9d46e5.svg",
+    "static/media/icon-spring-boot.svg": "/static/media/icon-spring-boot.0a5dc749.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/postgres.svg": "/static/media/postgres.6810f344.svg"
+  }
+}
